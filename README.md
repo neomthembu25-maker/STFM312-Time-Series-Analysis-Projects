@@ -208,7 +208,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - **Dr Martin Chanza** - Course Coordinator, STFM312
-- **North-West University** - Faculty of Natural and Agricultural Sciences
+- **North-West University** - Faculty Economic Managemnt Sciences
 - **South African Reserve Bank** - Data provision
 - **Epsilon Data Mining (Pty) Ltd** - Consultancy context
 
