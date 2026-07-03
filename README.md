@@ -199,9 +199,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **Neo Mthembu**
-- GitHub: [Your GitHub Username]
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- GitHub: https://github.com/neomthembu25-maker
+- LinkedIn: https://www.linkedin.com/in/neo-mthembu-902b4621a/
+- Email: neomthembu25@gmail.com
 
 ---
 
